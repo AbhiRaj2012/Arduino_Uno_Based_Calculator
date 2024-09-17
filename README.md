@@ -1,4 +1,4 @@
-#Arduino Calculator Project
+Arduino Calculator Project
 This project demonstrates a simple calculator built using Arduino as the microcontroller. It accepts user input through a 4x4 Keypad and displays the result on a 16x2 LCD. The calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features
